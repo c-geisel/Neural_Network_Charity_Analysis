@@ -8,11 +8,13 @@
 Alphabet Soup is a philanthropic organization that has donated 10 billion dollars to different organizations in the past 20 years. The goal of this organization is work to improve the world and they do this through their donations. Some of the donations made have not always led to success of a company. This analysis is thus completed in order to analyze past data on donations made and make a model that will predict if a donation will be successful based on a variety of factors. 
 
 ## Results: 
-Data Preprocessing
+### Data Preprocessing
 - What variable(s) are considered the target(s) for your model?
 - What variable(s) are considered to be the features for your model?
 - What variable(s) are neither targets nor features, and should be removed from the input data?
-Compiling, Training, and Evaluating the Model
+
+The target variable of this model is the "IS_SUCCESSFUL" column with a 1 referring to the donation being successful and a 0 referring to that organizations donation not being successful. With this being said, all other columns beside this one are the features of our model. 
+### Compiling, Training, and Evaluating the Model
 - How many neurons, layers, and activation functions did you select for your neural network model, and why?
 - Were you able to achieve the target model performance?
 - What steps did you take to try and increase model performance?
