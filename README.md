@@ -1,6 +1,7 @@
 # Neural Network Charity Analysis
 
 [Link Original Model](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
+
 [Link Model Optimization Trial](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.ipynb)
 
 ## Overview of the analysis: 
