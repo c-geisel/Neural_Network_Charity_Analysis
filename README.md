@@ -1,8 +1,8 @@
 # Neural Network Charity Analysis
 
-[Link Original Model](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
+[Link to Original Model](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity.ipynb)
 
-[Link Model Optimization Trial](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.ipynb)
+[Link to Model Optimization Trial](https://github.com/c-geisel/Neural_Network_Charity_Analysis/blob/main/AlphabetSoupCharity_Optimization.ipynb)
 
 ## Overview of the analysis: 
 Alphabet Soup is a philanthropic organization that has donated 10 billion dollars to different organizations in the past 20 years. The goal of this organization is work to improve the world and they do this through their donations. Some of the donations made have not always led to success of a company. This analysis is thus completed in order to analyze past data on donations made and make a model that will predict if a donation will be successful based on a variety of factors. 
