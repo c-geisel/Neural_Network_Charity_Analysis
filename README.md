@@ -20,6 +20,7 @@ The first model with these specifications has a 72.6% accuracy which does not ac
 
 ![accuracy.png](Resources/Images/accuracy.png)
 
+### Increasing Model Accuracy
 To try and increase the model performance, 3 changes were made in a second iteration of the model. First, the "STATUS" column is dropped. When a value counts method is performed on this column it shows 34,294 counts are an active status, and only 5 have a non-active status. Because much of the column has a similar value is does not have much effect on the effectiveness of a result and thus it is removed. Another change that is made is changing the "sigmoid" function in the output layer to be a "tanh" function. This is used as it expands the possible output range. Finally, a third output layer is used as it assists the model in identifying nonlinear characteristics of input data without requiring more input data.
 
 ![model_optimized.png](Resources/Images/model_optimized.png)
